@@ -1,0 +1,139 @@
+{
+  "ttl": 60,
+  "last_updated":1712901507,
+  "version":"1.1",
+  "data": {
+    "stations": [
+      {
+        "lon": 76.5225,
+        "lat": 9.5915,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2162&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2162&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_74",
+        "address": "204 Commerce Ave.",
+        "name": "Commerce & 2nd Ave N",
+        "station_id": "bcycle_nashville_2162"
+      },
+      {
+        "lon": 76.51814,
+        "lat": 9.59175,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2165&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2165&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_74",
+        "address": "425 Church St.",
+        "name": "Church St & 5th Ave N",
+        "station_id": "bcycle_nashville_2165"
+      },
+      {
+        "lon": 76.51931,
+        "lat": 9.59436,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2166&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2166&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_74",
+        "address": "424 3rd Ave. N",
+        "name": "Public Square : 3rd Ave N & Union St",
+        "station_id": "bcycle_nashville_2166"
+      },
+      {
+        "lon": 76.52369,
+        "lat": 9.5905,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2167&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2167&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_74",
+        "address": "106 1st Ave. S",
+        "name": "Riverfront Station: Broadway and 1st Ave S",
+        "station_id": "bcycle_nashville_2167"
+      },
+      {
+        "lon": 76.52862,
+        "lat": 9.59195,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2168&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2168&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_38",
+        "address": "408 S. 1st St. ",
+        "name": "Cumberland Park",
+        "station_id": "bcycle_nashville_2168"
+      },
+      {
+        "lon": 76.51487,
+        "lat": 9.59222,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2169&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2169&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_1",
+        "address": "314 6th Ave. N",
+        "name": "6th Ave N & Union St",
+        "station_id": "bcycle_nashville_2169"
+      },
+      {
+        "lon": 76.51362,
+        "lat": 9.58253,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2170&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2170&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_1",
+        "address": "494 11th Ave. S",
+        "name": "The Gulch : 11th Ave S & Pine St",
+        "station_id": "bcycle_nashville_2170"
+      },
+      {
+        "lon": 76.50651,
+        "lat": 9.58286,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2171&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2171&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_72",
+        "address": "505 12th Ave. S",
+        "name": "12th Ave S & Acklen Ave",
+        "station_id": "bcycle_nashville_2171"
+      },
+      {
+        "lon": 76.5046,
+        "lat": 9.58294,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2172&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2172&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_72",
+        "address": "1214 8th Ave. S",
+        "name": "Music Row : 8th Ave S & Wedgewood Ave",
+        "station_id": "bcycle_nashville_2172"
+      },
+      {
+        "lon": 76.5041,
+        "lat": 9.59013,
+        "rental_uris": {
+          "ios": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2173&platform=iOS",
+          "android": "https://www.bcycle.com/applink?system_id=bcycle_nashville&station_id=bcycle_nashville_2173&platform=android"
+        },
+        "_bcycle_station_type": "Kiosk and Station",
+        "region_id": "bcycle_nashville_region_72",
+        "address": "1700 Broadway",
+        "name": "Edgehill Library : Edgehill Ave S & 16th Ave S",
+        "station_id": "bcycle_nashville_2173"
+      }
+    ]
+  }
+}

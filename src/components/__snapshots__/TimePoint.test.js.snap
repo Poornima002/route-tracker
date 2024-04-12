@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TimePoint 1`] = `
+<div>
+  <div
+    class="time-point"
+    title="Scheduled Time"
+  >
+    9:55 PM
+  </div>
+</div>
+`;
+
+exports[`renders TimePoint with trip update 1`] = `
+<div>
+  <div
+    class="time-point"
+  >
+    <div>
+      <strong
+        class="text-dark"
+        title="Updated Time"
+      >
+        9:59 PM
+      </strong>
+    </div>
+    <div
+      class="small"
+    >
+      <strike
+        class="text-muted"
+        title="Scheduled Time"
+      >
+        9:55 PM
+      </strike>
+    </div>
+  </div>
+</div>
+`;

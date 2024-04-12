@@ -1,0 +1,13 @@
+{
+  "name": "WeGo Transit Map",
+  "description": "Realtime map of Nashville's WeGo Public Transit bus locations.",
+  "repository": "https://github.com/transitnownash/wego-bus-map",
+  "logo": "https://raw.githubusercontent.com/transitnownash/wego-bus-map/main/public/logo512.png",
+  "keywords": ["react", "nodejs", "nashville", "wego", "transit", "gtfs"],
+  "env": {
+    "REACT_APP_GTFS_BASE_URL": {
+      "description": "Base URL (no trailing slash) of the GTFS API endpoint.",
+      "value": "https://gtfs.transitnownash.org"
+    }
+  }
+}

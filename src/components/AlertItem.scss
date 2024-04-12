@@ -1,0 +1,16 @@
+.alert-item-header {
+  a:any-link {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.alert-item-text {
+  white-space: pre-line;
+  font-size: 0.8rem;
+}
+
+.alert-item-footer {
+  text-align: right;
+  font-size: 0.75rem;
+}

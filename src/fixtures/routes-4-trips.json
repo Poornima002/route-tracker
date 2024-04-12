@@ -1,0 +1,190 @@
+[{
+  "id": "13",
+  "trip_update": {
+    "trip": {
+      "trip_id": "55",
+      "start_time": "23:53:00",
+      "start_date": "20240411",
+      "route_id": "55",
+      "direction_id": 13
+    },
+    "stop_time_update": [
+      {
+        "stop_sequence": 25,
+        "arrival": {
+          "time": 1712899029
+        },
+        "departure": {
+          "time": 1712899029
+        },
+        "stop_id": "MURBLAWF"
+      },
+      {
+        "stop_sequence": 26,
+        "arrival": {
+          "time": 1712899076
+        },
+        "departure": {
+          "time": 1712899076
+        },
+        "stop_id": "MXIFOSTE"
+      },
+      {
+        "stop_sequence": 27,
+        "arrival": {
+          "time": 1712899130
+        },
+        "departure": {
+          "time": 1712899130
+        },
+        "stop_id": "MURFESWF"
+      },
+      {
+        "stop_sequence": 28,
+        "arrival": {
+          "time": 1712899168
+        },
+        "departure": {
+          "time": 1712899168
+        },
+        "stop_id": "MXIELMHI"
+      },
+      {
+        "stop_sequence": 29,
+        "arrival": {
+          "time": 1712899197
+        },
+        "departure": {
+          "time": 1712899197
+        },
+        "stop_id": "MURLESWF"
+      },
+      {
+        "stop_sequence": 30,
+        "arrival": {
+          "time": 1712899293
+        },
+        "departure": {
+          "time": 1712899293
+        },
+        "stop_id": "LAFLEWWN"
+      },
+      {
+        "stop_sequence": 31,
+        "arrival": {
+          "time": 1712899361
+        },
+        "departure": {
+          "time": 1712899361
+        },
+        "stop_id": "MXIWHARF"
+      },
+      {
+        "stop_sequence": 32,
+        "arrival": {
+          "time": 1712899370
+        },
+        "departure": {
+          "time": 1712899370
+        },
+        "stop_id": "LAF1AVWN"
+      },
+      {
+        "stop_sequence": 33,
+        "arrival": {
+          "time": 1712899455
+        },
+        "departure": {
+          "time": 1712899455
+        },
+        "stop_id": "MXIFULTN"
+      },
+      {
+        "stop_sequence": 34,
+        "arrival": {
+          "time": 1712899479
+        },
+        "departure": {
+          "time": 1712899479
+        },
+        "stop_id": "NXIPBODY"
+      },
+      {
+        "stop_sequence": 35,
+        "arrival": {
+          "time": 1712899594
+        },
+        "departure": {
+          "time": 1712899594
+        },
+        "stop_id": "KOR4AVWN"
+      },
+      {
+        "stop_sequence": 36,
+        "arrival": {
+          "time": 1712899611
+        },
+        "departure": {
+          "time": 1712899611
+        },
+        "stop_id": "KOR6AVWN"
+      },
+      {
+        "stop_sequence": 37,
+        "arrival": {
+          "time": 1712899677
+        },
+        "departure": {
+          "time": 1712899677
+        },
+        "stop_id": "8ADEMNN"
+      },
+      {
+        "stop_sequence": 38,
+        "arrival": {
+          "time": 1712899705
+        },
+        "departure": {
+          "time": 1712899705
+        },
+        "stop_id": "8ABRONM"
+      },
+      {
+        "stop_sequence": 39,
+        "arrival": {
+          "time": 1712899809
+        },
+        "departure": {
+          "time": 1712899809
+        },
+        "stop_id": "JAM7AVEN"
+      },
+      {
+        "stop_sequence": 40,
+        "arrival": {
+          "time": 1712899824
+        },
+        "departure": {
+          "time": 1712899824
+        },
+        "stop_id": "JAM5AEN"
+      },
+      {
+        "stop_sequence": 41,
+        "arrival": {
+          "time": 1712899835
+        },
+        "departure": {
+          "time": 1712899835
+        },
+        "stop_id": "MCC4_15"
+      }
+    ],
+    "vehicle": {
+      "id": "2063",
+      "label": "121"
+    },
+    "timestamp": 1712899029
+  }
+}
+]
